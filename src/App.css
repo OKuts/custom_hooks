@@ -1,0 +1,11 @@
+.hoverGray {
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+}
+
+.hoverRed {
+    width: 100px;
+    height: 100px;
+    background: crimson;
+}
